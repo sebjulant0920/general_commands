@@ -1,4 +1,6 @@
 # general_commands
+## Install Portainer
+Follow this guide: https://docs.portainer.io/start/install-ce/server/docker/linux
 
 If there are any issues when starting portainer, remove image, volume and restart 
 ´´´
