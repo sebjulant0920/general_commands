@@ -39,6 +39,8 @@ services:
   ## install Nginx Proxy Manager 
 
   ## install bitwarden 
-  
+  Seee this website:
   https://blog.51sec.org/2021/03/using-dockerportainer-to-install-open.html?expand_article=1
-  
+
+  Open console of VM --> mkdir /bw-data
+  docker run -d --restart=always --name bitwarden -v /bw-data/:/data/ -p 8000:80 bitwardenrs/server:latest
