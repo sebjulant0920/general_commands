@@ -38,6 +38,7 @@ services:
 
   ## install Nginx Proxy Manager 
 
-  ## Install Bitwarden
-
+  ## install bitwarden 
+  
+  https://blog.51sec.org/2021/03/using-dockerportainer-to-install-open.html?expand_article=1
   
